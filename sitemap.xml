@@ -2,28 +2,18 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://www.usageflow.io/</loc>
-        <lastmod>2024-08-12T19:08:29+00:00</lastmod>
+        <loc>https://usageflow.io</loc>
+        <lastmod>2024-09-07T00:00:00+00:00</lastmod>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://www.usageflow.io/privacy.html</loc>
-        <lastmod>2024-06-30T19:08:29+00:00</lastmod>
+        <loc>https://usageflow.io/privacy.html</loc>
+        <lastmod>2024-09-07T00:00:00+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://www.usageflow.io/terms.html</loc>
-        <lastmod>2024-06-30T19:08:29+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://www.usageflow.io/index.html</loc>
-        <lastmod>2024-06-30T19:08:29+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://www.usageflow.io/ollies</loc>
-        <lastmod>2024-08-12T19:08:29+00:00</lastmod>
+        <loc>https://usageflow.io/terms.html</loc>
+        <lastmod>2024-09-07T00:00:00+00:00</lastmod>
         <priority>0.80</priority>
     </url>
 </urlset>
